@@ -1,0 +1,1 @@
+export const calcularPrecoSugestao = (precos)=>{const vals=precos.map(p=>p.preco);const m=Math.min(...vals);return (m*1.2).toFixed(2);};

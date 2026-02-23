@@ -1,0 +1,1 @@
+import {calcularPrecoSugestao} from '../services/precoService.js';
